@@ -1,0 +1,27 @@
+#ois-instructions {
+	font-size:20px;
+	text-align:left;
+	padding-bottom:17px;
+	padding-top:50px;
+	font-weight: 700;
+}
+
+#ois_custom_update_area {
+	margin-bottom:10px;
+	min-height:150px;
+}
+
+#ois_custom_editor,#ois_custom_css_editor {
+	width:100%;
+	height:210px;
+	padding:15px;
+	border-radius:3px;
+	-webkit-border-radius:3px;
+	-moz-border-radius:3px;
+	outline:none;
+}
+
+.ois_custom_waiting {
+	text-align:center;
+	margin:auto 0;
+}
